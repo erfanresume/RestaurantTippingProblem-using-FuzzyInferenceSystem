@@ -24,4 +24,4 @@ In this part, we worked on defuzzification which is the process of converting a 
   - the service as 9.8, and
   - the quality as 6.5,
 - it would recommend I leave:
-  - a almost 19% tip.
+  - a 19.847607361963192% tip.
